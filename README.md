@@ -9,3 +9,6 @@
 
 * **2. Como Criar Rotas Privadas com Next.js (Proteção por Login)**
   - Um guia passo a passo de como implementar rotas privadas que só podem ser acessadas por usuários autenticados. Inclui dicas sobre autenticação de usuários e verificação de tokens.
+
+* **2. Como Criar um link que fica ativo mudando de cor com (use path name)**
+  - O componente active link é um link que muda de cor de acordo com sua página isso acontece por que o usepathName é um metodo que pega a url que está ativa, mude o código e deixe como quiser, essa é so uma base 
